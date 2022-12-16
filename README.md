@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I'm rcmdnk!
+
+![rcmdnk's GitHub stats](https://github-readme-stats.vercel.app/api?username=motty-mio2&theme=graywhite)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=motty-mio2&layout=compact&langs_count=20)
 
 <!--
-**motty-mio2/motty-mio2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rcmdnk/rcmdnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
